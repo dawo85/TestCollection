@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+.btn-60 {
+  width: 60px;
+  height: 60px;
+  background-color: transparent;
+  background-size: 60px auto;
+  border: none;
+}
+
+.btn-sortida-azul {
+  background-image:url('../img/sortida_azul.png');
+}
+.btn-sortida-azul:active {
+  background-image:url('../img/sortida_ambar.png');
+}
